@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛滅度後棺斂葬送經
+#+DATE: 2015-08-30 20:05:00.069332
+#+PROPERTY: JUAN 0
